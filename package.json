@@ -1,0 +1,26 @@
+{
+  "name": "join-classes",
+  "version": "1.0.0",
+  "description": "simple function for combining classes into a space delimited class list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/join-classes.git"
+  },
+  "keywords": [
+    "css",
+    "join",
+    "classes",
+    "class",
+    "list"
+  ],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/join-classes/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/join-classes#readme"
+}
